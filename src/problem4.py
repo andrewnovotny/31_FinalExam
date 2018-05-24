@@ -70,7 +70,7 @@ class Pig(object):
         #### The premise to the problem should be the same
         #### Only other thing that might be useful is increment by pounds eaten // some number, but this
         #### Meets the docstring so it should be fine
-        
+
         self.weight += pounds_of_slop
 
     def eat_for_a_year(self):
