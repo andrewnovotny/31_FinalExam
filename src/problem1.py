@@ -90,7 +90,7 @@ def problem1a(numbers):
       :type numbers:  [int]
     """
     # -------------------------------------------------------------------------
-    # TODO: 2. Implement and test this function.
+    # DONE: 2. Implement and test this function.
     #          Tests have been written for you (above).
     # -------------------------------------------------------------------------
     total = 0
@@ -172,7 +172,7 @@ def problem1b(numbers):
       :type numbers:  [int]
     """
     # -------------------------------------------------------------------------
-    # TODO: 3. Implement and test this function.
+    # DONE: 3. Implement and test this function.
     #          Tests have been written for you (above).
     # -------------------------------------------------------------------------
     total = 0
